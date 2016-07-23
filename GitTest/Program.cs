@@ -10,7 +10,7 @@ namespace Papousek
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ahoj,jsem virtuální papoušek Lóra, ráda opakuji");
+            Console.WriteLine("Ahoj,jsem virtuální papoušek Sára, ráda opakuji");
             Console.WriteLine("Napiš něco: ");
             string vstup;
             vstup = Console.ReadLine();
